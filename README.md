@@ -9,6 +9,6 @@ Modify the publicationTitle of the entry in Zotero to solve the problem of not b
 <br>
 执行后，稍等一下，一般可以自动更新期刊标签，否则手动更新一下。<br>
 <br>
-另外还有一些条目，格式比较混乱，欢迎提交issues以完善本代码
+另外还有一些条目，格式比较混乱，难以匹配到期刊标签，欢迎提交issues以完善本代码
 
 
